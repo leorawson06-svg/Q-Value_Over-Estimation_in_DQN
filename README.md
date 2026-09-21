@@ -1,4 +1,4 @@
-Empirical Investigation in Overestimation in DQN (Deep Q Networks)
+Empirical Investigation into Overestimation in DQN (Deep Q Networks)
 
 For all results/training regime/ conceptual discussion please consult Results_Report.pdf
 
